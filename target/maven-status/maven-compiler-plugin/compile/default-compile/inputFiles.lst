@@ -1,0 +1,13 @@
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\repository\UserRepository.java
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\exceptions\MissingHeaderInfoException.java
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\exceptions\ErrorDetails.java
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\controller\UserListController.java
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\App.java
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\controller\HomeController.java
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\service\UserService.java
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\exceptions\CustomizedResponseExceptionHandler.java
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\repository\MailRepository.java
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\exceptions\UserNotFoundException.java
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\model\Mail.java
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\service\MailService.java
+C:\Zainab\PCCW-Global_SpringBootApp\user-management\src\main\java\com\user\model\User.java

@@ -1,0 +1,13 @@
+com\user\App.class
+com\user\exceptions\ErrorDetails.class
+com\user\exceptions\UserNotFoundException.class
+com\user\model\User.class
+com\user\repository\UserRepository.class
+com\user\service\UserService.class
+com\user\model\Mail.class
+com\user\exceptions\CustomizedResponseExceptionHandler.class
+com\user\controller\HomeController.class
+com\user\service\MailService.class
+com\user\exceptions\MissingHeaderInfoException.class
+com\user\controller\UserListController.class
+com\user\repository\MailRepository.class
